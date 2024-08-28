@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class IT24103034Lab6Q2A {
 
